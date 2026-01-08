@@ -6,3 +6,5 @@ tags: [Logs,Log Analysis]
 ---
 
 When the term logs is mentioned, one of the first associations that often comes to mind is a log from a tree. However, in a technical context, logs have a very different meaning. This post explores what logs are and examines their critical role in digital forensics investigations.
+
+![Example of failed login attempts](/assets/log analysis.webp) {: width="400"}
