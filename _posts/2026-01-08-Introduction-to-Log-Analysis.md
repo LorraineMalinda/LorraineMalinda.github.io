@@ -9,5 +9,5 @@ tags: [Logs,Log Analysis]
 When the term logs is mentioned, one of the first associations that often comes to mind is a log from a tree. However, in a technical context, logs have a very different meaning. This post explores what logs are and examines their critical role in digital forensics investigations.
 
 ## Failed Login Attempts 
-This can be because a user has genuinely forgotten their password or an attacker is brute forcing.
+This can be because a user has genuinely forgotten their password or an attacker brute forcing.
 ![Example of Log Analytics](/assets/log Analytics.png) {: width="400"}
