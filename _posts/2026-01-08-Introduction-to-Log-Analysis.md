@@ -5,6 +5,7 @@ categories: [Cybersecurity, Digital Forensics]
 tags: [Logs,Log Analysis]
 ---
 
+## Logs
 When the term logs is mentioned, one of the first associations that often comes to mind is a log from a tree. However, in a technical context, logs have a very different meaning. This post explores what logs are and examines their critical role in digital forensics investigations.
 
 ## Failed Login Attempts 
