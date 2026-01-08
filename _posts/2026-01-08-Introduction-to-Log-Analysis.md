@@ -10,4 +10,4 @@ When the term logs is mentioned, one of the first associations that often comes 
 
 ## Failed Login Attempts 
 This can be because a user has genuinely forgotten their password or an attacker brute forcing.
-![Example of Log Analytics](/assets/log Analytics.png) {: width="400"}
+![Example of Log Analytics](/assets/log Analytics.png) 
